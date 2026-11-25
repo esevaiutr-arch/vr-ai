@@ -1,0 +1,10 @@
+{
+  "name": "VR AI Personal Assistant",
+  "short_name": "VR AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#151e35",
+  "description": "Personal AI task and reminder assistant",
+  "icons": []
+}
